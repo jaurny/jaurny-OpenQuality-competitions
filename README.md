@@ -1,0 +1,1 @@
+# jaurny-OpenQuality-competitions
