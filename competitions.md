@@ -17,3 +17,18 @@
 | 2023 | PHM North America 2023 Data Challenge | PHM Society | 齿轮箱退化评估 | 故障严重程度估计、鲁棒性、可解释性 | [链接](https://data.phmsociety.org/phm2023-conference-data-challenge/) |
 | 2022 | PHM Conference 2022 Data Challenge | PHM Society | 凿岩机故障诊断 | 多类别故障分类、压力传感器数据建模 | [链接](https://data.phmsociety.org/2022-phm-conference-data-challenge/) |
 | 2022 | Tabular Playground Series - Aug 2022 | Kaggle | 产品失效预测 | 表格数据、二分类、产品质量预测 | [链接](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022) |
+## 典型赛题简介
+
+### PHM North America 2023 Data Challenge
+
+- 质量主题：齿轮箱退化评估
+- 任务类型：故障严重程度估计、鲁棒性、可解释性
+- 简介：该赛题关注工业齿轮箱在不同工况下的退化状态评估，适合用于设备健康监测、故障诊断和可靠性分析研究。
+- 链接：[赛题主页](https://data.phmsociety.org/phm2023-conference-data-challenge/)
+
+### Tabular Playground Series - Aug 2022
+
+- 质量主题：产品失效预测
+- 任务类型：表格数据、二分类、产品质量预测
+- 简介：该竞赛要求根据产品相关特征预测是否发生失效，可作为制造质量预测和表格建模的练习赛题。
+- 链接：[赛题主页](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022)
